@@ -1,0 +1,11 @@
+{
+  "name": "merkle",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Maikel Ordaz",
+  "license": "MIT",
+  "dependencies": {
+    "@openzeppelin/merkle-tree": "^1.0.7",
+    "prettier": "^3.4.1"
+  }
+}
