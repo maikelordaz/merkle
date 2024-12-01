@@ -1,0 +1,31 @@
+{
+    "format": "standard-v1",
+    "leafEncoding": ["string", "bytes", "uint256"],
+    "tree": [
+        "0x7c44516aa15a24d97d416067ed809e4a7a11eebe8608abcea41ef4562446c049",
+        "0x7c1e811662ea023c04a1fdbdf973a1054756f959fa6d910da5ca315106134049",
+        "0xd0eceb747826e8dc3dabfa71b5c64146b1c595947a57b4d50b60aa83a7a5b8b3",
+        "0xea9255fe535c19282e65966020bd74f10588ff2f6edfb02cd183f8f4340234c3",
+        "0xe4d5022a9210985477f6f6ae7a7419d9414e9b634a85954c25ea3f26cbe34ff5",
+        "0xae415e9b46124e6bf13e7995ff72bb313211b7735d1eecc3279627cf9f992fad",
+        "0x6dd57bfca572d241a1b1ee68a96945b6ce954d269724aa86ed9e690fca484e2c"
+    ],
+    "values": [
+        {
+            "value": ["Company A", "C12345678N", 50000000],
+            "treeIndex": 6
+        },
+        {
+            "value": ["Company B", "C23456789N", 100000000],
+            "treeIndex": 3
+        },
+        {
+            "value": ["Company C", "C34567890N", 150000000],
+            "treeIndex": 5
+        },
+        {
+            "value": ["Company D", "C45678901N", 200000000],
+            "treeIndex": 4
+        }
+    ]
+}
